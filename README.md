@@ -56,7 +56,7 @@ Não é possivel mover arquivos entre contêiner!! Ou passa pela rede ou pelo ho
 `docker container prune`
 
 LIMPA TUDO
-docker system prune -a
+`docker system prune -a` (comando importante)
 
 Execução privilegiada
 Para dar alguns recursos a mais de kernel
