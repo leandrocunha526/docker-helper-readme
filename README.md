@@ -55,7 +55,7 @@ Não é possivel mover arquivos entre contêiner!! Ou passa pela rede ou pelo ho
 # Remover todos os contêiner parados
 `docker container prune`
 
-LIMPA TUDO
+LIMPA TUDO  
 `docker system prune -a` (comando importante)
 
 Execução privilegiada
